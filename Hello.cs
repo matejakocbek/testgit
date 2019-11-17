@@ -5,5 +5,8 @@ public class Hello
 	System.Console.WriteLine("Hello, World!");
 	System.Console.WriteLine("Hello, Local!");
 	System.Console.WriteLine("Hello, Branch!");
+	System.Console.WriteLine("Hello, GitHub!");
+	System.Console.WriteLine("Hello, AAAAAAA!");
+	System.Console.WriteLine("Hello, 1234!");
    }
 }
